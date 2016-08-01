@@ -1,25 +1,28 @@
 {
-    "name": "foggyline/customerbundle",
-    "type": "library",
-    "description": "Just a test module for web shop application.",
-    "keywords": ["customer","account"],
-    "homepage": "https://github.com/ajzele/B05460_CustomerBundle",
-    "license": "MIT",
-    "authors": [
-        {
-            "name": "Branko Ajzele",
-            "email": "ajzele@gmail.com",
-            "homepage": "http://foggyline.net",
-            "role": "Developer"
-        }
-    ],
-    "require": {
-        "php": ">=7.0.0"
-    },
-    "autoload": {
-        "psr-4": {
-            "Foggyline\\CustomerBundle\\": ""
-        }
-    },
-    "target-dir" : "Foggyline/CustomerBundle",
+  "name": "foggyline/customerbundle",
+  "type": "library",
+  "description": "Just a test module for web shop application.",
+  "keywords": [
+    "customer",
+    "account"
+  ],
+  "homepage": "https://github.com/ajzele/B05460_CustomerBundle",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Branko Ajzele",
+      "email": "ajzele@gmail.com",
+      "homepage": "http://foggyline.net",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=7.0.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Foggyline\\CustomerBundle\\": ""
+    }
+  },
+  "target-dir": "Foggyline/CustomerBundle"
 }
