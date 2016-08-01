@@ -17,6 +17,7 @@
       "role": "Developer"
     }
   ],
+  "minimum-stability": "stable",  
   "autoload": {
     "psr-0": {
       "Foggyline\\CustomerBundle\\": ""
