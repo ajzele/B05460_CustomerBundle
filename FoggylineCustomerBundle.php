@@ -1,5 +1,5 @@
 <?php
-
+// Test git change
 namespace Foggyline\CustomerBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
